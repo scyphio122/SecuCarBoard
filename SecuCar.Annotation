@@ -1,0 +1,16 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Main_Board_NFC.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=MainBoard.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=MainBoardPower.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+
+

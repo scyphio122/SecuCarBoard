@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for SecuCar
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -37,30 +37,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Disarmer.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LHIMQBAE
-
-[Document2]
 DocumentPath=MainBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -70,7 +53,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNOTLMCQ
 
-[Document3]
+[Document2]
 DocumentPath=Libs\TPS563200 - przetwornica DCDC\TPS563200DDC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYWGHVJD
 
-[Document4]
+[Document3]
 DocumentPath=..\LIBS\Footprints\inductor_8x8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UODDNMXX
 
-[Document5]
+[Document4]
 DocumentPath=..\LIBS\Schematic\inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQUUKNQM
 
-[Document6]
+[Document5]
 DocumentPath=LP38693_LDOSchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDOYIWTA
 
-[Document7]
+[Document6]
 DocumentPath=WSON_footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEWTSVHQ
 
-[Document8]
+[Document7]
 DocumentPath=..\LIBS\Schematic\SIM_Card_Holder.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOKTKYIY
 
-[Document9]
+[Document8]
 DocumentPath=SIM_Card_Holder_footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXMCPVVI
 
-[Document10]
+[Document9]
 DocumentPath=TPD4E001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJFHLRMC
 
-[Document11]
+[Document10]
 DocumentPath=..\LIBS\Schematic\Zener_Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFWESDSJ
 
-[Document12]
+[Document11]
 DocumentPath=..\LIBS\Footprints\Zener_Diode_footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APLOMCLX
 
-[Document13]
+[Document12]
 DocumentPath=..\LIBS\Schematic\SMA_connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITYJGXII
 
-[Document14]
+[Document13]
 DocumentPath=..\LIBS\Footprints\SMA_Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPIIXFYI
 
-[Document15]
+[Document14]
 DocumentPath=..\LIBS\Schematic\Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODLFOWJM
 
-[Document16]
+[Document15]
 DocumentPath=..\LIBS\Footprints\Standard_footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHUQAVNB
 
-[Document17]
+[Document16]
 DocumentPath=..\LIBS\Schematic\Molex_Minifit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFJXEILE
 
-[Document18]
+[Document17]
 DocumentPath=..\LIBS\Footprints\Molex_MiniFit_Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,14 +325,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWOPKUSD
 
-[Document19]
+[Document18]
 DocumentPath=MainBoardPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -359,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAASVQON
 
-[Document20]
+[Document19]
 DocumentPath=..\LIBS\Schematic\LM26003-Q1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDTXMARO
 
-[Document21]
+[Document20]
 DocumentPath=..\LIBS\Footprints\TSSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPQAIDPQ
 
-[Document22]
+[Document21]
 DocumentPath=..\LIBS\Schematic\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOKBOPTB
 
-[Document23]
+[Document22]
 DocumentPath=..\LIBS\Footprints\Inductors_footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLQHJXNX
 
-[Document24]
+[Document23]
 DocumentPath=..\LIBS\Schematic\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFSAWOKR
 
-[Document25]
+[Document24]
 DocumentPath=..\LIBS\Schematic\Buzzers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELPYUSYA
 
-[Document26]
+[Document25]
 DocumentPath=..\LIBS\Footprints\Buzzers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJSMSKCF
 
-[Document27]
+[Document26]
 DocumentPath=..\LIBS\Schematic\NFC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYRYRNXP
 
-[Document28]
+[Document27]
 DocumentPath=..\LIBS\Footprints\S-VQFN-N32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPMTLRIJ
 
-[Document29]
+[Document28]
 DocumentPath=..\LIBS\Schematic\LM22674.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSNWMIYS
 
-[Document30]
+[Document29]
 DocumentPath=..\LIBS\Footprints\HSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGQJHRLT
 
-[Document31]
+[Document30]
 DocumentPath=SecuCar.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,6 +545,142 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document31]
+DocumentPath=..\LIBS\Schematic\Terminal_block.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KREAPFBB
+
+[Document32]
+DocumentPath=..\LIBS\Footprints\Terminal_block.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GUSMUGSE
+
+[Document33]
+DocumentPath=..\LIBS\Footprints\CR2032_batHolder.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YPWTDOCK
+
+[Document34]
+DocumentPath=Main_Board_NFC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ISXGHMYD
+
+[Document35]
+DocumentPath=..\LIBS\Schematic\LSM6DSM.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GLAXAGJJ
+
+[Document36]
+DocumentPath=..\LIBS\Footprints\LGA-14L.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AACSPYRC
+
+[Document37]
+DocumentPath=SecuCar.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=SecuCarBoard.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LLNSXNTX
 
 [Configuration1]
 Name=Default Configuration
@@ -610,7 +729,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for SecuCar
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
