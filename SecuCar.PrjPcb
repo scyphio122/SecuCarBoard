@@ -784,6 +784,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHPBMWOY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SecuCar\Design Rule Check - SecuCarBoard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
