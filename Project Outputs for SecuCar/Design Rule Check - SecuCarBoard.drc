@@ -1,253 +1,253 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium workspace\SecuCar\SecuCarBoard.PcbDoc
-Date     : 2017-07-05
-Time     : 22:37:56
+Date     : 2017-07-18
+Time     : 15:26:44
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.178mm) (Max=1.016mm) (Preferred=0.254mm) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=0.35mm) (Max=2.54mm) (All)
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.224mm,10.287mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.938mm,23.241mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.209mm,9.652mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.367mm,19.558mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.605mm,18.288mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.51mm,20.574mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.526mm,20.066mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.891mm,19.304mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.481mm,35.309mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.147mm,14.605mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.619mm,32.97mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.259mm,31.115mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (39.243mm,31.242mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.066mm,31.623mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.891mm,5.665mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,28.1mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,20.48mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,17.94mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,10.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,2.7mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.82mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.82mm,12.86mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,10.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,17.94mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,7.78mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.01mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,38.26mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,17.94mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.01mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (37.47mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (36.2mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (37.47mm,20.48mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.66mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.39mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (31.12mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (31.12mm,7.78mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.39mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.85mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.58mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.58mm,7.78mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.85mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,25.56mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.04mm,23.02mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,10.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.04mm,7.78mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.5mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.77mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (22.23mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.15mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.61mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.34mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.34mm,12.86mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.07mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.07mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.53mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.26mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.26mm,17.94mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,43.34mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,40.8mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,33.18mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,20.48mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,17.94mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,15.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,12.86mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,10.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,5.24mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,2.7mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.45mm,45.88mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.18mm,38.26mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.45mm,35.72mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.18mm,33.18mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.764mm,2.794mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.336mm,6.731mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.287mm,21.209mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.604mm,21.463mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.705mm,3.99mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.004mm,20.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.583mm,20.312mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (35.094mm,6.689mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.971mm,11.684mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (30.226mm,10.795mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.241mm,14.732mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.521mm,14.668mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.59mm,13.843mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.004mm,36.83mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.447mm,26.543mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.003mm,28.067mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.688mm,31.115mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.258mm,31.877mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.114mm,28.067mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.549mm,21.328mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.192mm,21.209mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.115mm,22.604mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.827mm,24.257mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.669mm,31.623mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.034mm,32.258mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.018mm,32.385mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.129mm,32.512mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.399mm,33.655mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.972mm,34.036mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (19.558mm,34.036mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.209mm,34.036mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (25.4mm,20.955mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.583mm,20.312mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.543mm,20.193mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.415mm,18.161mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.256mm,14.351mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.925mm,10.795mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (35.108mm,7.818mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.544mm,9.652mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (44.45mm,30.353mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.528mm,4.318mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.371mm,27.086mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.828mm,27.813mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.193mm,30.734mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.053mm,31.75mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.763mm,6.985mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.334mm,5.588mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.005mm,11.684mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.291mm,10.668mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.001mm,22.733mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.986mm,36.703mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.795mm,19.304mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.875mm,15.494mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.986mm,14.605mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.049mm,21.971mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.144mm,13.335mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (7.493mm,13.716mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.97mm,15.748mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.43mm,13.589mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.16mm,19.939mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.383mm,17.145mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.588mm,9.351mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.033mm,28.448mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (7.493mm,30.861mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.223mm,30.48mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.065mm,30.48mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.937mm,12.446mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,23.241mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (0.889mm,12.446mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.905mm,12.446mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (2.921mm,12.446mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,12.446mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,13.335mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,14.351mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,15.367mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,16.383mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,17.399mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,18.415mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,19.304mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,20.32mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,21.336mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,22.352mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.35mm,26.543mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.461mm,25.654mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.699mm,24.765mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.937mm,24.003mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,24.003mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.964mm,27.964mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.202mm,27.217mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.445mm,26.416mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.302mm,25.4mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (2.667mm,24.638mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.651mm,24.13mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (0.635mm,24.13mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.604mm,28.829mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.016mm,27.686mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.333mm,28.956mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.016mm,28.956mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.333mm,29.845mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (30.099mm,45.72mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.13mm,44.45mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (36.576mm,45.72mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (25.975mm,41.977mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,29.486mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,29.486mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,29.486mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,29.486mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,28.286mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,28.286mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,28.286mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,28.286mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,27.086mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,27.086mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,27.086mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,27.086mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,25.886mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,25.886mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,25.886mm) Top Layer to Bottom Layer
-   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,25.886mm) Top Layer to Bottom Layer
-Rule Violations :211
-
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
-
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Processing Rule : Clearance Constraint (Gap=0.25mm) (OnLayer('Keep-Out Layer')),(All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (IsVia)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.25mm) (OnLayer('Keep-Out Layer')),(All)
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.35mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,25.886mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,25.886mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,25.886mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,25.886mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,27.086mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,27.086mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,27.086mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,27.086mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,28.286mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,28.286mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,28.286mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,28.286mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.929mm,29.486mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.729mm,29.486mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.529mm,29.486mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.329mm,29.486mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (25.975mm,41.977mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (36.576mm,45.72mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.13mm,44.45mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (30.099mm,45.72mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.333mm,29.845mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.016mm,28.956mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.333mm,28.956mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.016mm,27.686mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.604mm,28.829mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (0.635mm,24.13mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.651mm,24.13mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (2.667mm,24.638mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.302mm,25.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.445mm,26.416mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.202mm,27.217mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.964mm,27.964mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,24.003mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.937mm,24.003mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.699mm,24.765mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.461mm,25.654mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.35mm,26.543mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,22.352mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,21.336mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,20.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,19.304mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,18.415mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,17.399mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,16.383mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,15.367mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,14.351mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,13.335mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,12.446mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (2.921mm,12.446mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (1.905mm,12.446mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (0.889mm,12.446mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.953mm,23.241mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.937mm,12.446mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.065mm,30.48mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.223mm,30.48mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (7.493mm,30.861mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.033mm,28.448mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.588mm,9.351mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.383mm,17.145mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.16mm,19.939mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.43mm,13.589mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.97mm,15.748mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (7.493mm,13.716mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.144mm,13.335mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.049mm,21.971mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.986mm,14.605mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.875mm,15.494mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.795mm,19.304mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.986mm,36.703mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.001mm,22.733mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.291mm,10.668mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.005mm,11.684mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.334mm,5.588mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.763mm,6.985mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.053mm,31.75mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.193mm,30.734mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.828mm,27.813mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.371mm,27.086mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.528mm,4.318mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (44.45mm,30.353mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.544mm,9.652mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (35.108mm,7.818mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.925mm,10.795mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.256mm,14.351mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.415mm,18.161mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.543mm,20.193mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.583mm,20.312mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (25.4mm,20.955mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.209mm,34.036mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (19.558mm,34.036mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.972mm,34.036mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.399mm,33.655mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.129mm,32.512mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.018mm,32.385mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.034mm,32.258mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (18.669mm,31.623mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.827mm,24.257mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.115mm,22.604mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.192mm,21.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.549mm,21.328mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.114mm,28.067mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.258mm,31.877mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.688mm,31.115mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.003mm,28.067mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.447mm,26.543mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.004mm,36.83mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.59mm,13.843mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.521mm,14.668mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.241mm,14.732mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (30.226mm,10.795mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.971mm,11.684mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (35.094mm,6.689mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.583mm,20.312mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.004mm,20.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.705mm,3.99mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.604mm,21.463mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (10.287mm,21.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.336mm,6.731mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.764mm,2.794mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.18mm,33.18mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.45mm,35.72mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (3.18mm,38.26mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (4.45mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,2.7mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,10.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,12.86mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,17.94mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,20.48mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,33.18mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (5.72mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (6.99mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.26mm,17.94mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (8.26mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (9.53mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.07mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (12.07mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.34mm,12.86mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (13.34mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.61mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.15mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (22.23mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (24.77mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (23.5mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.04mm,7.78mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,10.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (26.04mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (27.31mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.85mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.58mm,7.78mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (28.58mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (29.85mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.39mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (31.12mm,7.78mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (31.12mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (32.39mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.66mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (34.93mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (37.47mm,20.48mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (36.2mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (37.47mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.01mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,17.94mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,38.26mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.74mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.01mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,7.78mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,17.94mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (42.55mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (41.28mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,10.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.82mm,12.86mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (45.09mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (43.82mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,2.7mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,5.24mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,10.32mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,15.4mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,17.94mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,20.48mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,23.02mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,25.56mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,28.1mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,40.8mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (46.36mm,43.34mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (47.63mm,45.88mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.891mm,5.665mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (20.066mm,31.623mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (39.243mm,31.242mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (40.259mm,31.115mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.619mm,32.97mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (33.147mm,14.605mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (38.481mm,35.309mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.891mm,19.304mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (17.526mm,20.066mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (16.51mm,20.574mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.605mm,18.288mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (15.367mm,19.558mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (21.209mm,9.652mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (11.938mm,23.241mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (0.35mm < 0.35mm) : Via (14.224mm,10.287mm) Top Layer to Bottom Layer
+Rule Violations :211
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.178mm) (Max=1.016mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
